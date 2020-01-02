@@ -13,3 +13,12 @@ import matplotlib.pyplot as plt
 inputData = np.load("./data/input.npy", allow_pickle=True)
 outputData = np.load("./data/output.npy", allow_pickle=True)
 
+# show an image
+# firstInput = inputData[0]
+# firstOutput = outputData[0]
+
+# im1 = Image.fromarray(firstInput)
+# im2 = Image.fromarray(firstOutput)
+
+# im1.show()
+# im2.show()
